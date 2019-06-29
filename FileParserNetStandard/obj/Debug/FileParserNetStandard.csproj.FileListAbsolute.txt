@@ -1,0 +1,75 @@
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\obj\Debug\FileParserNetStandard.csprojAssemblyReference.cache
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\obj\Debug\FileParserNetStandard.csproj.CoreCompileInputs.cache
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\bin\Debug\FileParserNetStandard.dll
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\bin\Debug\FileParserNetStandard.pdb
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\obj\Debug\FileParserNetStandard.dll
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\obj\Debug\FileParserNetStandard.pdb
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\bin\Debug\ObjectLibrary.dll
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\obj\Debug\FileParserNetStandard.csproj.CopyComplete
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\bin\Debug\NUnit3.TestAdapter.dll
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\bin\Debug\NUnit3.TestAdapter.pdb
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\bin\Debug\nunit.engine.dll
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\bin\Debug\nunit.engine.api.dll
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\bin\Debug\nunit.framework.dll
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\bin\Debug\nunit.framework.pdb
+\\hda\Docs\Uni\diploma\delegates task\repo\FileParserNetStandard\bin\Debug\nunit.framework.xml
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\NUnit3.TestAdapter.dll
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\NUnit3.TestAdapter.pdb
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\nunit.engine.dll
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\nunit.engine.api.dll
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\FileParserNetStandard.dll
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\FileParserNetStandard.pdb
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\nunit.framework.dll
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\ObjectLibrary.dll
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\nunit.framework.pdb
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\nunit.framework.xml
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\obj\Debug\FileParserNetStandard.csprojAssemblyReference.cache
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\obj\Debug\FileParserNetStandard.csproj.CoreCompileInputs.cache
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\obj\Debug\FileParserNetStandard.csproj.CopyComplete
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\obj\Debug\FileParserNetStandard.dll
+\\hda\Docs\Uni\diploma\delegates task\WeeklyTaskDELEGATES\FileParserNetStandard\obj\Debug\FileParserNetStandard.pdb
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\obj\Debug\FileParserNetStandard.csprojAssemblyReference.cache
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\obj\Debug\FileParserNetStandard.csproj.CoreCompileInputs.cache
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\obj\Debug\FileParserNetStandard.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\obj\Debug\FileParserNetStandard.pdb
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\nunit.engine.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\nunit.engine.api.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\FileParserNetStandard.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\FileParserNetStandard.pdb
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\nunit.framework.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\ObjectLibrary.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\nunit.framework.pdb
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\bin\Debug\nunit.framework.xml
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES\FileParserNetStandard\obj\Debug\FileParserNetStandard.csproj.CopyComplete
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\obj\Debug\FileParserNetStandard.csprojAssemblyReference.cache
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\obj\Debug\FileParserNetStandard.csproj.CoreCompileInputs.cache
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\obj\Debug\FileParserNetStandard.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\obj\Debug\FileParserNetStandard.pdb
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\bin\Debug\nunit.engine.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\bin\Debug\nunit.engine.api.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\bin\Debug\FileParserNetStandard.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\bin\Debug\FileParserNetStandard.pdb
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\bin\Debug\nunit.framework.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\bin\Debug\ObjectLibrary.dll
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\bin\Debug\nunit.framework.pdb
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\bin\Debug\nunit.framework.xml
+C:\Users\102103545\Source\Repos\WeeklyTaskDELEGATES2\FileParserNetStandard\obj\Debug\FileParserNetStandard.csproj.CopyComplete
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\bin\Debug\nunit.engine.dll
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\bin\Debug\nunit.engine.api.dll
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\bin\Debug\FileParserNetStandard.dll
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\bin\Debug\FileParserNetStandard.pdb
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\bin\Debug\ObjectLibrary.dll
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\bin\Debug\nunit.framework.pdb
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\obj\Debug\FileParserNetStandard.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\obj\Debug\FileParserNetStandard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\obj\Debug\FileParserNetStandard.csproj.CopyComplete
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\obj\Debug\FileParserNetStandard.dll
+C:\Users\User\Desktop\WeeklyTaskDELEGATES-master\FileParserNetStandard\obj\Debug\FileParserNetStandard.pdb
